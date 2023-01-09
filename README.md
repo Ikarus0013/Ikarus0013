@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ikarus0013
-- 👀 I’m interested in making the most out of Notion for individuals
-- 🌱 I’m currently learning html, Css, and Js
-- 💞️ I’m looking to collaborate on anything related to automation
-- 📫 How to reach me ...
+- 👀 Eventually I solve Problems for people. 
+- 🌱 I’m currently learning html, Css, JS, and Python
 
 <!---
 Ikarus0013/Ikarus0013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
